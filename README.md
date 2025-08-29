@@ -1,6 +1,7 @@
 <div align="center">
   <h1>ReVanced Xposed</h1>
-  <a href="https://discord.gg/QWUrAA2mKq"><img alt="Discord Server" src="https://img.shields.io/badge/Join-Discord-5865F2.svg?logo=discord"></a>
+  <a href="https://discord.gg/QWUrAA2mKq"><img alt="Discord Server" src="https://img.shields.io/badge/Discord%20Server-5865F2.svg?logo=discord&logoColor=white"></a>
+  <a href="https://t.me/revancedxposed"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram_Channel-blue.svg?logo=telegram&logoColor=white"></a>
   <a href="https://github.com/chsbuffer/ReVancedXposed/releases/latest"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/chsbuffer/ReVancedXposed/total"></a>
   <a href="https://github.com/chsbuffer/ReVancedXposed"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/chsbuffer/ReVancedXposed"></a>  
   <br>
